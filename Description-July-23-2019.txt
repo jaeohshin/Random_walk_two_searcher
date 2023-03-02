@@ -1,0 +1,6 @@
+This is updaed on July-23rd, 2019
+
+-The dissociation is modelled as only one molecule is hopping into neighboring site.
+-The koff is set to 0.5.
+
+
